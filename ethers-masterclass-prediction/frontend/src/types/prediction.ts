@@ -26,7 +26,7 @@ export interface PredictionMarketData {
 export interface WalletState {
   address: string | null;
   chainId: number | null;
-  balance: string;
+  balance: string | null;
   isConnected: boolean;
   isConnecting: boolean;
   error: string | null;

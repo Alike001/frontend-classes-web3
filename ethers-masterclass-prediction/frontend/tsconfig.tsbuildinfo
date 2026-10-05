@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Header.tsx","./src/components/MarketCard.tsx","./src/constants/index.ts","./src/contracts/predictionConfig.ts","./src/hooks/useContract.ts","./src/hooks/useWalletConnection.ts","./src/hooks/useWeb3Prediction.ts","./src/types/prediction.ts"],"version":"5.7.3"}
